@@ -1,0 +1,1 @@
+run : (tcs) or (tsc.cmd) in command line.

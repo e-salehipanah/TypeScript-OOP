@@ -14,7 +14,7 @@ export class Animal {
 
 export class Dog implements Animal {
     // same like animal : start
-    age:number;
+    age: number | 0;
     legs:number;
     name:string;
     // same like animal : end
